@@ -11,12 +11,12 @@ Anyhow, here below is a condensed version of my CV, for all interested.
 
 ## Education
 - March 2025 - **Master's degree in Space and Astronautical Engineering** at Sapienza University of Rome, Italy
-Thesis: *Constellation Design Study for a Lunar Global Navigation Satellite System*
-Grade: 103/110
+- Thesis: *Constellation Design Study for a Lunar Global Navigation Satellite System*
+- Grade: 103/110
 
 - October 2019 - **Bachelor's degree in Aerospace Engineering** at Sapienza University of Rome, Italy
-Thesis: *Study and configuration of IEEE 1588 protocol for Ethernet networks on launchers*
-Grade: 108/110
+- Thesis: *Study and configuration of IEEE 1588 protocol for Ethernet networks on launchers*
+- Grade: 108/110
 
 
 ## Working experience
@@ -31,3 +31,8 @@ Grade: 108/110
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+## What else?
+
+I know how to use MATLAB, LaTeX and I'm currently learning Python to be able to mod my favourite game, Civ IV.
+

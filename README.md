@@ -14,6 +14,7 @@ Anyhow, here below is a condensed version of my CV, for all interested.
 - Thesis: *Constellation Design Study for a Lunar Global Navigation Satellite System*
 - Grade: 103/110
 
+
 - October 2019 - **Bachelor's degree in Aerospace Engineering** at Sapienza University of Rome, Italy
 - Thesis: *Study and configuration of IEEE 1588 protocol for Ethernet networks on launchers*
 - Grade: 108/110

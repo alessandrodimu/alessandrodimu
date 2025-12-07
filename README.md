@@ -1,12 +1,12 @@
 # Aerospace Engineer
 
-I recently graduated in Engineeering and am actively looking for a job right now. I thought having a website where to store, save and show my projects (university and not) would be an asset in finding the right job, as well as a practical exercise to show my *amazing* software skills.
+I am a graduate in Space Engineeering and am a space enthusiast. My dream is to be working on megaconstructions in space, think of space stations or orbital rings (I wish). I thought having a website where to store, save and show my projects (university and not) would be an asset in finding the right job, as well as a practical exercise to show my somewhat *amazing* software skills.
 Anyhow, here below is a condensed version of my CV, for all interested.
 
 ## Info
 - Birth year: 1997
 - Nationality: Italian
-- Residence: Rome, Italy
+- Residence: Warsaw, Poland
 
 
 ## Education
@@ -20,7 +20,7 @@ Anyhow, here below is a condensed version of my CV, for all interested.
 
 
 ## Working experience
-
+- June 2025 - Present - **Satellite Operations Specialist** ICEYE Warsaw, Poland
 
 <!--
 - 🔭 I’m currently working on ...

@@ -10,18 +10,19 @@ Anyhow, here below is a condensed version of my CV, for all interested.
 
 
 ## Education
-- March 2025 - **Master's degree in Space and Astronautical Engineering** at Sapienza University of Rome, Italy
+Ms Degree
+- March 2025 : **Master's degree in Space and Astronautical Engineering** at Sapienza University of Rome, Italy
 - Thesis: *Constellation Design Study for a Lunar Global Navigation Satellite System*
 - Grade: 103/110
 
-
-- October 2019 - **Bachelor's degree in Aerospace Engineering** at Sapienza University of Rome, Italy
+Bs Degree
+- October 2019 : **Bachelor's degree in Aerospace Engineering** at Sapienza University of Rome, Italy
 - Thesis: *Study and configuration of IEEE 1588 protocol for Ethernet networks on launchers*
 - Grade: 108/110
 
 
 ## Working experience
-- June 2025 - Present - **Satellite Operations Specialist** ICEYE Warsaw, Poland
+- (June 2025 - Present) : **Satellite Operations Specialist** at ICEYE Warsaw, Poland
 
 <!--
 - 🔭 I’m currently working on ...

@@ -1,4 +1,4 @@
-# Aerospace Engineer
+# About me
 
 I am a graduate in Space Engineeering and am a space enthusiast. My dream is to be working on megaconstructions in space, think of space stations or orbital rings (I wish). I thought having a website where to store, save and show my projects (university and not) would be an asset in finding the right job, as well as a practical exercise to show my somewhat *amazing* software skills.
 Anyhow, here below is a condensed version of my CV, for all interested.

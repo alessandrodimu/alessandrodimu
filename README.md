@@ -22,7 +22,8 @@ Bs Degree
 
 
 ## Working experience
-- (June 2025 - Present) : **Satellite Operations Specialist** at ICEYE Warsaw, Poland
+- (January 2026 - Present) : **Satellite Operations Analyst** at ICEYE Warsaw, Poland
+- (June 2025 - January 2026) : **Satellite Operations Specialist** at ICEYE Warsaw, Poland
 
 <!--
 - 🔭 I’m currently working on ...
